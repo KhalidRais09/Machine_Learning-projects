@@ -217,6 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+
 # ML project generated files
 artifact/
 catboost_info/
@@ -226,3 +227,4 @@ catboost_info/
 
 # Serialized models (optional)
 *.pkl
+notebook/catboost_info/
