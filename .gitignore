@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ML project generated files
+artifact/
+catboost_info/
+
+# VS Code
+.vscode/
+
+# Serialized models (optional)
+*.pkl
